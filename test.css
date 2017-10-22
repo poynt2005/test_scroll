@@ -1,0 +1,31 @@
+.parallax{
+	width: 2000px;
+	height : 500px;
+	
+	background-repeat : no-repeat;
+	background-attachment:fixed;
+	
+	background-size : cover;
+	overflow:hidden;
+	
+}
+.divclass1{
+	background-image : url(src/0.jpg);
+}
+
+.divclass2{
+	background-image : url(src/1.jpg);
+}
+
+.divclass3{
+	background-image : url(src/2.jpg);
+}
+
+.title{
+	position:relative;
+	top:50%;
+	text-align : center;	
+	font-family : fantasy;
+	font-size: 80px;
+	
+}
